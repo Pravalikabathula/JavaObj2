@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="StudentList.xsl"?>
+<StudentsList>
+
+	<student id="1">
+		<firstName>Bill</firstName>
+		<lastName>Gates</lastName>
+		<course>MicroSoft</course>
+		<scores>
+			<subject1>80</subject1>
+			<subject2>90</subject2>
+			<subject3>70</subject3>
+			<subject4>80</subject4>
+		</scores>
+		<deatils>
+			<state>TS</state>
+			<location>KPHB-colony(HYD)</location>
+			<address>14b-block Markandeay Hotel</address>
+			<floor>First</floor>
+			<roomno>808</roomno>
+		</deatils>
+		<educationdeatils>
+			<university>osmania university</university>
+			<college>ou collegeof arts and sciences</college>
+			<department>mca(master in computer applications)</department>
+		</educationdeatils>
+
+	</student>
+
+	<student id="2">
+		<firstName>Elon</firstName>
+		<lastName>Musk</lastName>
+		<course>AWS</course>
+		<scores>
+			<subject1>90</subject1>
+			<subject2>80</subject2>
+			<subject3>70</subject3>
+			<subject4>850</subject4>
+		</scores>
+
+		<deatils>
+			<state>TS</state>
+			<location>KMR</location>
+			<address>10-b-block shubha colony</address>
+			<floor>ground</floor>
+			<roomno>101</roomno>
+		</deatils>
+		<educationdeatils>
+			<university>osmania university</university>
+			<college>ou collegeof sciences</college>
+			<department>msc( electronics)</department>
+		</educationdeatils>
+	</student>
+
+</StudentsList>
